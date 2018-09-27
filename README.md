@@ -1,2 +1,2 @@
-# Timeseries-generator-
+# Timeseries-generator
 Timeseries generator  with detail comments 
